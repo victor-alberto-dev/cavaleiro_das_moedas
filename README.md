@@ -18,3 +18,8 @@ Um jogo simples desenvolvido com a Godot Engine. No controle de um bravo cavalei
 
 ![Captura de tela 2025-04-23 134326](https://github.com/user-attachments/assets/90c0217c-be27-4b86-9970-c942dbc041d5)
 
+## 🚀 Como Rodar
+
+1. Clone o repositório:
+   ```bash
+   git clone https://github.com/seu-usuario/cavaleiro-das-moedas.git
