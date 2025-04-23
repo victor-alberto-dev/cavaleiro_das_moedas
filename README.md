@@ -18,8 +18,17 @@ Um jogo simples desenvolvido com a Godot Engine. No controle de um bravo cavalei
 
 ![Captura de tela 2025-04-23 134326](https://github.com/user-attachments/assets/90c0217c-be27-4b86-9970-c942dbc041d5)
 
+---
+
 ## 🚀 Como Rodar
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/seu-usuario/cavaleiro-das-moedas.git
+   git clone https://github.com/victor-alberto-dev/cavaleiro_das_moedas
+
+---
+
+## 📚 Referências e Créditos
+
+- 🎥 Vídeo tutorial seguido: [2D Platformer Game in Godot (YouTube)](https://www.youtube.com/watch?v=LOhfqjmasi0)
+- 🎨 Assets utilizados: [Brackeys Platformer Bundle - Itch.io](https://brackeysgames.itch.io/brackeys-platformer-bundle)
